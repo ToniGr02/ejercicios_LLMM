@@ -1,0 +1,35 @@
+:root {
+    font-size: 12px;
+}
+
+.gris {
+background-color: gray;
+font-size: 15px;
+
+}
+
+.naranja {
+    background-color: orange;
+    font-size: 2rem;
+    width: 100vw;
+    height: 20vh;
+}
+
+.azul {
+    background-color: cyan;
+    font-size: 3em;
+    height: 20vh;
+}
+
+.pistacho {
+    background-color: greenyellow;
+    font-size: 3rem;
+    width: 50vw;
+
+
+}
+
+span {
+    background-color: moccasin;
+    font-size: 0.5em;
+}
